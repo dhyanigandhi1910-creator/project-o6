@@ -31,3 +31,6 @@ match-case statement
 Exception handling
 
 Functions & loops
+
+## Author 
+Dhyani Gandhi 
